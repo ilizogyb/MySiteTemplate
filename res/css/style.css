@@ -1,0 +1,6 @@
+
+html body {
+    background: url(../../content/img/bg1.svg) repeat,
+                url(../../content/img/bg2.svg) no-repeat center center fixed;
+    background-size: auto, cover;
+}
